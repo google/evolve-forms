@@ -14,6 +14,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "64.0",
   "packageAliases": {
-    "Evolve Forms": "0HoKY000000Gtig0AC"
+    "Evolve Forms": "0HoKY000000Gtig0AC",
+    "Evolve Forms@0.0.0-1": "04tKY000000QbwUYAS"
   }
 }
