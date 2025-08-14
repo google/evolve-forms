@@ -4,7 +4,7 @@
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "path": "evolve-forms",
-      "default": false,
+      "default": true,
       "package": "Evolve Forms",
       "versionDescription": ""
     }
