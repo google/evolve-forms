@@ -19,7 +19,7 @@ input gathered from all of the components on the page.
 
 Evolve Forms is _fully backwards compatible_ with Page Layouts, so all of the
 existing Page Layouts you have in your org can be easily used with the
-framework. Just drag the `Dynamic Forms - Page Layout` component onto the
+framework. Just drag the `Evolve Forms - Page Layout` component onto the
 Lightning Record Page.
 
 By default, the page layout that is assigned will be rendered. You can also
@@ -35,7 +35,7 @@ like!
 
 Evolve Forms provides the ability for "Field Sections" to be added to the
 Lightning Record Page which are independent of the page layout. Just drag and
-drop the `Dynamic Forms - Field Section` component onto the page layout:
+drop the `Evolve Forms - Field Section` component onto the page layout:
 
 ![Field Section](images/FieldSection.gif)
 
@@ -44,7 +44,7 @@ the same set of edit/save/cancel buttons control the entire page.
 
 ##### Comma Separated Field API Names
 
-To use the `Dynamic Forms - Field Section` component, enter the "Section Label"
+To use the `Evolve Forms - Field Section` component, enter the "Section Label"
 you would like to display and the "Comma Separated Field API Names" which you
 would like to render. Use the below mapping to label fields as required, read
 only, or to insert additional blank spaces:
