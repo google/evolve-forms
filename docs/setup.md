@@ -39,9 +39,9 @@ Select the `c:dynamicFormsOverrideEdit` Lightning Component.
 
 ### 2. Modify Lightning Record Page
 
-We are almost complete with the setup. Now, we need to add the `Dynamic Forms -
+We are almost complete with the setup. Now, we need to add the `Evolve Forms -
 Cancel and Save Buttons` component to the Lightning Record Page, and replace the
-standard `Record Detail` component with the `Dynamic Forms - Page Layout`
+standard `Record Detail` component with the `Evolve Forms - Page Layout`
 component.
 
 ![Page Layout and Override](images/PageLayoutAndOverride.gif)
